@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.timer-wrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.timer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.text {
+  font-size: 14px;
+  color: #555;
+}
+
+.value {
+  font-size: 40px;
+  font-weight: bold;
+  color: #004777;
+}
+
+.info {
+  margin-top: 20px;
+  font-size: 14px;
+  color: #777;
+}
